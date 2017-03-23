@@ -1,0 +1,10 @@
+body{background-color: #000;color:#fff;}
+div{width: 60%; margin: 0 auto;text-align: center;}
+table{margin: 0 auto;text-align: left;border-collapse:collapse;
+}
+td{padding: 10px 15px;}
+thead{background-color: #f5f5f5;color:blue;font-weight: bold;}
+td, th{border: 1px solid blue;}
+button{background: cyan;}
+input, button{padding: 10px 20px;border:0;}
+.delete{background-color: red;color:#fff;}
